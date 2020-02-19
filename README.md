@@ -5,10 +5,15 @@ Abstract：Pruning is a promising technology for convolutional neural networks (
 
 ## Citation
 @inproceedings{GuoWZ19,
+
   title={Compression of deep convolutional neural networks using effective channel pruning},
+
   author={Guo, Qingbei and Wu, Xiao-Jun and Zhao, Xiuyang},
+
   booktitle={Proceedings of the 10th International Conference on Image and Graphics (ICIG 2019)},
+
   pages={760--772},
+
   year={2019}
 }
 
